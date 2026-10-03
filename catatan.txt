@@ -5,3 +5,5 @@ Nama: Rezha, Steve, Candra
 File ini digunakan untuk latihan Git Push, Git Pull, Git Branch, Git Merge, dan Git Clone.
 
 Saya sedang belajar menggunakan GitHub.
+
+Saya sedang mencoba fitur branch.
